@@ -12,7 +12,7 @@ GaussianNB	                0.742,
 KNearestNeighbors         	0.719,
 rbfSVM	                    0.702,
 
-### Conclusion
+### Top Findings
 * Exploratory Data Analysis revealed a higher survival rate of females and passengers who boarded with Pclass 1.
 * The model evaluation revealed the best model to be the GradientBoostingClassifier model with an accuracy score of 82.4%
 
